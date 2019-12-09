@@ -1,0 +1,22 @@
+{  
+    "name": "Hello World",   
+    "short_name": "Hello",
+    "icons": [
+        {
+          "src": "/pwa-demo/images/icons-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/pwa-demo/images/icons-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+    "lang": "en-US",     
+    "start_url": "/pwa-demo/index.html", 
+    "display": "standalone",  
+    "background_color": "white",   
+    "theme_color": "black" 
+}
+    
